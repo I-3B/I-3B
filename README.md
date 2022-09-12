@@ -8,10 +8,11 @@ I am Islam, a web developer, and an IT engineering student.
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=aura" />
 </a>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/I-3B/PurpleBook-API">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=I-3B&repo=purplebook-api&theme=aura" />
 </a>
 </section>
+
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
