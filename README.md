@@ -4,7 +4,7 @@ I am Islam, a web developer, and an IT engineering student.
 
 <section align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=dracula" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=tokyonight" />
 </a>
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=tokyonight" />
