@@ -2,16 +2,15 @@
 I am Islam, a web developer, and an IT engineering student.
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=aura" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=aura" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=I-3B&repo=purplebook-api" />
 </a>
-[![Readme Card]()](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
