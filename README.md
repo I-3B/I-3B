@@ -1,7 +1,11 @@
 ### Hi there 👋
 I am Islam, a web developer, and an IT engineering student.
-
-<center>
+<style> 
+  section{
+    margin: auto;
+  }
+</style>
+<section>
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=aura" />
 </a>
@@ -11,7 +15,7 @@ I am Islam, a web developer, and an IT engineering student.
 <a align="center" href="https://github.com/I-3B/PurpleBook-API">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=I-3B&repo=purplebook-api&theme=aura" />
 </a>
-</center>
+</section>
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
