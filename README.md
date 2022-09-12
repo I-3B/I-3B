@@ -29,8 +29,8 @@ I am Islam, a web developer, and an IT engineering student.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)(WSL)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)(WSL)
 <!--
 **I-3B/I-3B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
