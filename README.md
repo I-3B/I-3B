@@ -2,11 +2,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=140 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=aura" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=aura" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=aura" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=aura" />
 </a>
 
 # Languages and tools
