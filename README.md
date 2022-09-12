@@ -2,7 +2,7 @@
 I am Islam, a web developer, and an IT engineering student.
 
 
-<section aling="center">
+<section align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=aura" />
 </a>
