@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Islam, a web developer, and an IT engineering student.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
