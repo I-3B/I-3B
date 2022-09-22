@@ -9,9 +9,6 @@ I am Islam, a web developer, and an IT engineering student.
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=tokyonight" />
 </a>
-<a align="center" href="https://github.com/I-3B/PurpleBook-API">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=I-3B&repo=purplebook-api&theme=tokyonight" />
-</a>
 </section>
 
 ## Contact
@@ -19,7 +16,6 @@ I am Islam, a web developer, and an IT engineering student.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14283533/i3b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/islamnaasani/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/islam_naasani)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/i_3b___)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamnaasani@gmail.com)
 ## Skills
 ### Languages, libraries and frameworks
@@ -43,5 +39,5 @@ I am Islam, a web developer, and an IT engineering student.
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)(WSL)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
