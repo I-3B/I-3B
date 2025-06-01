@@ -6,19 +6,6 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=github_dark_dimmed"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact"
-      />
-      <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-3B&hide=java&layout=compact&theme=github_dark_dimmed" />
-    </picture>
-  </a>
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
         srcset="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=github_dark_dimmed"
       />
       <source
