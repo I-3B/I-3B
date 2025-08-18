@@ -17,21 +17,6 @@
   </a>
 </section>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/I-3B/I-3B/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/I-3B/I-3B/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/I-3B/I-3B/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <br>
 
 ## Contact
